@@ -2,6 +2,6 @@ def hello_world(city):
     print(f'Hello world from {city}')
 
 def main():
-    hello_world('M-town')
+    hello_world('AIDS')
 
 main()
