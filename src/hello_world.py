@@ -9,3 +9,5 @@ main()
 def hello():
     print("Whatever")
     # How about here?
+
+# Comments outside of the function
