@@ -5,3 +5,7 @@ def main():
     hello_world('M-town')
 
 main()
+
+def hello():
+    print("Whatever")
+    # How about here?
